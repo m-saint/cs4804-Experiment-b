@@ -23,6 +23,7 @@ export const json = {
        {
         "type": "image",
         "name": "chart2",
+        "imageLink": "https://api.surveyjs.io/private/Surveys/files?name=d0e1bee3-ce79-4696-b2a4-5224e33ab3b4",
         "imageFit": "cover",
         "imageHeight": "auto",
         "imageWidth": "100%"
